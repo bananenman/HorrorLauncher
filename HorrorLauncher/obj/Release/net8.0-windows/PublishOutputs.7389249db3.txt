@@ -1,0 +1,5 @@
+C:\Users\David\Documents\HorrorLauncher\HorrorLauncher\bin\Release\net8.0-windows\app.publish\HorrorLauncher.exe
+C:\Users\David\Documents\HorrorLauncher\HorrorLauncher\bin\Release\net8.0-windows\app.publish\HorrorLauncher.dll
+C:\Users\David\Documents\HorrorLauncher\HorrorLauncher\bin\Release\net8.0-windows\app.publish\HorrorLauncher.deps.json
+C:\Users\David\Documents\HorrorLauncher\HorrorLauncher\bin\Release\net8.0-windows\app.publish\HorrorLauncher.runtimeconfig.json
+C:\Users\David\Documents\HorrorLauncher\HorrorLauncher\bin\Release\net8.0-windows\app.publish\HorrorLauncher.pdb
