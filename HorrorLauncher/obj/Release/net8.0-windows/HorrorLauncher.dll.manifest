@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="HorrorLauncher.exe" version="1.0.0.9" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="HorrorLauncher.exe" version="1.0.0.10" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -62,22 +62,22 @@
       <dsig:DigestValue>8KsKE2TlKLC9n8FAzFwoi0FrkRW0TMaylN0MPy0D8MI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="HorrorLauncher.dll" size="568832">
+  <file name="HorrorLauncher.dll" size="569344">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FM37N+IunAwm/HbO5I/BCwj+pM27ZtPy4o0sj3K2gZY=</dsig:DigestValue>
+      <dsig:DigestValue>ujWyjr3U4EOJkqu7HIIxO7HsqFSEygTGaMl9WJ/CIzg=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="HorrorLauncher.exe" size="138240">
+  <file name="HorrorLauncher.exe" size="138752">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>t2cR62XlNyWASZ3M4qXEzbVVRPYzcu9l4URv/YalZw0=</dsig:DigestValue>
+      <dsig:DigestValue>p8H9r+ZV3W4URYSe7v1+ZW5keFUurjY2jvLjSha9vqU=</dsig:DigestValue>
     </hash>
   </file>
   <file name="HorrorLauncher.runtimeconfig.json" size="458">
@@ -87,6 +87,15 @@
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
       <dsig:DigestValue>xxFSvyXkDWR7JEDFs5vhV6PTVhBr6dW2eKuXu4e054I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="images\Icon.ico" size="9662">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>C96u9vO6tMWYXSsinLG/ML40ajEJRXxj/sjN1lBYOD0=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

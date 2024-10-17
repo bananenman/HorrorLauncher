@@ -17,7 +17,7 @@
 
   <ItemGroup>
     <Resource Include="Icon.ico" />
-    <Resource Include="images\Icon.ico" />
+    <Content Include="images\Icon.ico" />
     <Resource Include="images\LauncherBackground.jpg" />
     <Resource Include="LauncherBackground.jpg" />
   </ItemGroup>
