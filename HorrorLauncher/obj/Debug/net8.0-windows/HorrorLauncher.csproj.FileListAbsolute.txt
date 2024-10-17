@@ -18,4 +18,3 @@ C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Debug\net8.0-win
 C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Debug\net8.0-windows\HorrorLauncher.pdb
 C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Debug\net8.0-windows\HorrorLauncher.genruntimeconfig.cache
 C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Debug\net8.0-windows\ref\HorrorLauncher.dll
-C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Debug\net8.0-windows\HorrorLauncher_Content.g.cs

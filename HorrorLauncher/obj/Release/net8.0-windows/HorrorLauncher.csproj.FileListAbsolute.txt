@@ -43,7 +43,6 @@ C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Release\net8.0-w
 C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Release\net8.0-windows\HorrorLauncher.pdb
 C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Release\net8.0-windows\HorrorLauncher.genruntimeconfig.cache
 C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Release\net8.0-windows\ref\HorrorLauncher.dll
-C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Release\net8.0-windows\HorrorLauncher_Content.g.cs
 C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\bin\Release\net8.0-windows\HorrorLauncher.dll.manifest
 C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\bin\Release\net8.0-windows\HorrorLauncher.application
 C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Release\net8.0-windows\HorrorLauncher.dll.manifest
