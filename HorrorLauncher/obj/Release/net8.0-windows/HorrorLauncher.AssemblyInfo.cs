@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("HorrorLauncher")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c78e6940211e775811167e795d2a1a7c5e76b503")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+61ba44747f12e57e328c83c0e990e08d85d84e3e")]
 [assembly: System.Reflection.AssemblyProductAttribute("HorrorLauncher")]
 [assembly: System.Reflection.AssemblyTitleAttribute("HorrorLauncher")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
