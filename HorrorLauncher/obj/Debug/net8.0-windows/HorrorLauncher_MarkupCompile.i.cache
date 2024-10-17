@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\David\Documents\HorrorLauncher\HorrorLauncher\obj\Debug\net8.0-windows\
+C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\obj\Debug\net8.0-windows\
 HorrorLauncher
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-C:\Users\David\Documents\HorrorLauncher\HorrorLauncher\App.xaml
+C:\Users\David\Documents\VS22\HorrorLauncher\HorrorLauncher\App.xaml
 11407045341
-11398972761
+
 6-751748868
 1981124507420
 MainWindow.xaml;
 
-False
+True
 

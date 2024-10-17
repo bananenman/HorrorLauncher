@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\David\\Documents\\HorrorLauncher\\HorrorLauncher\\HorrorLauncher.csproj",
+      "projectUniqueName": "C:\\Users\\David\\Documents\\VS22\\HorrorLauncher\\HorrorLauncher\\HorrorLauncher.csproj",
       "projectName": "HorrorLauncher",
-      "projectPath": "C:\\Users\\David\\Documents\\HorrorLauncher\\HorrorLauncher\\HorrorLauncher.csproj",
+      "projectPath": "C:\\Users\\David\\Documents\\VS22\\HorrorLauncher\\HorrorLauncher\\HorrorLauncher.csproj",
       "packagesPath": "C:\\Users\\David\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\David\\Documents\\HorrorLauncher\\HorrorLauncher\\obj\\",
+      "outputPath": "C:\\Users\\David\\Documents\\VS22\\HorrorLauncher\\HorrorLauncher\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\David\\AppData\\Roaming\\NuGet\\NuGet.Config",
