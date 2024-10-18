@@ -13,5 +13,6 @@
         <Image Stretch="UniformToFill" Source="/LauncherBackground.jpg" Margin="-4,0,4,0"/>
         <TextBlock Name="VersionText" VerticalAlignment="Bottom" HorizontalAlignment="Right" FontSize="20" Margin="0, 0, 5, 0"/>
         <Button Name="PlayButton" Content="Checking For Updates" Click="PlayButton_Click" Height="60" FontSize="48" FontWeight="Bold" Foreground="#DDFFFFFF" Margin="0, 0, 0, 15" VerticalAlignment="Bottom" HorizontalAlignment="Center" MinWidth="150" Background="Transparent" BorderThickness="0" Padding="10,1,10,1"/>
+        <Button Name="ExitButton" Content="Exit Launcher" Click="ExitButton_Click" Height="60" FontSize="48" FontWeight="Bold" Foreground="#DDFFFFFF" Margin="40,0,0,15" VerticalAlignment="Bottom" HorizontalAlignment="Left" MinWidth="150" Background="Transparent" BorderThickness="0" Padding="10,1,10,1"/>
     </Grid>
 </Window>

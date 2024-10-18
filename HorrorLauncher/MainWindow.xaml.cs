@@ -27,6 +27,8 @@ namespace HorrorLauncher
         private string gameExe;
 
         private LauncherStatus _status;
+
+        #region DownloadGame
         internal LauncherStatus Status
         {
             get => _status;
@@ -161,6 +163,11 @@ namespace HorrorLauncher
                 CheckForUpdates();
             }
         }
+
+        private void ExitButton_Click(object sender, EventArgs e)
+        {
+            System.Windows.Application.Current.Shutdown();
+        }
     }
 
     struct Version
@@ -221,4 +228,6 @@ namespace HorrorLauncher
             return $"{major}.{minor}.{subMinor}";
         }
     }
+    #endregion
+
 }
